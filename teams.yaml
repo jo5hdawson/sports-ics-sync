@@ -8,26 +8,8 @@
 # so the same school in two sports (e.g. Arkansas football and basketball,
 # both team_id "ark") needs two different slugs, like ark-fb and ark-bb.
 teams:
-  - name: "Dallas Cowboys"
-    slug: dal
-    sport: football
-    league: nfl
-    team_id: dal
-
-  - name: "Kansas City Chiefs"
-    slug: kc
-    sport: football
-    league: nfl
-    team_id: kc
-
-  - name: "Arkansas Razorbacks"
-    slug: ark
-    sport: football
-    league: college-football
-    team_id: ark
-
-  - name: "Arkansas Razorbacks"
-    slug: ark-bb
+  - name: "Los Angeles Lakers"
+    slug: lal
     sport: basketball
-    league: mens-college-basketball
-    team_id: "8"
+    league: nba
+    team_id: lal
