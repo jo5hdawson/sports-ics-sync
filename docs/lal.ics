@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sports-ics-sync//espn//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:All Teams
+X-WR-CALNAME:Los Angeles Lakers
 BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Sacramento Kings
 DTSTART:20261006T020000Z
